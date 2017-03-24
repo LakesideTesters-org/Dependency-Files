@@ -1,0 +1,3 @@
+https://mvnrepository.com/artifact/info.cukes -------- All maven dependencies
+http://cucumber.github.com/cucumber-eclipse/update-site ----------- install cucumber in eclipse
+https://github.com/pramodqaengineer/cucumber---------- Cucumber Jar files
