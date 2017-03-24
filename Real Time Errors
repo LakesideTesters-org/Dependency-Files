@@ -1,2 +1,7 @@
 Maven Displaying problems in eclips:-
 From Eclipse go to to Window -> Preferences -> Maven (expand) -> Errors/Warnings.The last option reads "Plugin execution not covered by lifecycle configuration" - use the drop-down menu for this option and toggle "Ignore", then Apply, then OK. (At "Requires updating Maven Projects" prompt say OK).
+
+Gecko Driver error syntax:-
+Step1:where you saved the gecko downloader EXE file in your system ,just given below  syntax format.
+step2:copy the path in your system placed in eclips program project.
+System.setProperty("webdriver.gecko.driver", "C:\\Users\\varaprasad\\Desktop\\selenium\\geckodriver.exe");
